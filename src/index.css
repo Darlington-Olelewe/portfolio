@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  --purple: #5E3BEE;
+  --secondaryBackground: #F5FCFF;
+  --primaryBackground: white;
+  --textColor: #282938;
+  --iconColor: #006B6A;
+
+  color: var(--textColor);
+  background-color: var(--primaryBackground);
+  font-family: 'Roboto', sans-serif;
+}
